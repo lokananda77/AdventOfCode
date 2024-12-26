@@ -1,0 +1,11 @@
+[package]
+description = "AdventOfCode."
+version = "1.0.0"
+name = "adventofcode-rs"
+authors = ["Lokananda", "Fnu Lnu <no-reply@rust-lang.org>"]
+
+[[bin]]
+path = "gifts.rs"
+name = "cool-tool"
+test = false
+bench = false
