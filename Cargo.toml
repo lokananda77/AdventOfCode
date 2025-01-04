@@ -5,7 +5,7 @@ name = "adventofcode-rs"
 authors = ["Lokananda", "Fnu Lnu <no-reply@rust-lang.org>"]
 
 [[bin]]
-path = "gifts.rs"
-name = "cool-tool"
+path = "day1.rs"
+name = "day1"
 test = false
 bench = false
